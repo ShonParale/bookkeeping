@@ -1,7 +1,6 @@
 This Python-based project helps users manage their Expenditure, Earnings, and Savings.
 It provides options to enter, update, delete, find, and view financial data.
 The interface is menu-driven, supporting mouse, keyboard, and touch navigation.
-Built with tkinter for the GUI and sys for system operations.
 A simple, effective tool for managing personal finances and tracking spending, income, and savings.
 
 Modules used
